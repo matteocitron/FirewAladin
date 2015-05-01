@@ -21,7 +21,7 @@ UDP_SERVICES="5432"
 # Services tcp/udp output open 
 REMOTE_TCP_SERVICES="80 3128 8888"
 REMOTE_UDP_SERVICES="" 
-# Network Administration et Centreon
+# Network Administration 
 NETWORK_ADM=""
 #response ping (let blank for no)
 ping=yes
